@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Cobler turned courtier being a pleasant humour between King Henry the Eight and a cobler.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33527</idno>
+            <idno type="STC">Wing C4782</idno>
+            <idno type="STC">ESTC R10859</idno>
+            <idno type="EEBO-CITATION">12150236</idno>
+            <idno type="OCLC">ocm 12150236</idno>
+            <idno type="VID">55047</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33527)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55047)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 887:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Cobler turned courtier being a pleasant humour between King Henry the Eight and a cobler.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Haley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henry --  VIII, --  King of England, 1491-1547 --  Fiction.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55047:1"/>
+            <pb facs="tcp:55047:1"/>
+            <p>THE COBLER TURNED COURTIER. BEING A Pleaſant Humour BETWEEN King HENRY the Eighth AND A COBLER.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>F. Haley,</hi> in the Year, 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:55047:2"/>
+            <head>A Pleaſant and Delightful Story Of KING HENRY the 8th And the COBLER.</head>
+            <head>How King <hi>HENRY</hi> the <hi>8th</hi> uſed to viſit the Watches in the City, and how he came Acquainted with a Merry and Jovial Cobler.</head>
+            <p>IT was the Cuſtom of King <hi>Henry</hi> the 8th to walk late in the Night into the City diſguiſed, to take notice how the Conſta<g ref="char:EOLhyphen"/>bles and Watch performed their Duty; not only in carefully Guarding the City Gates, but alſo in diligent Watching the in<g ref="char:EOLhyphen"/>ward parts of the ſaid City, that ſo they might prevent thoſe Di<g ref="char:EOLhyphen"/>ſturbances and Caſualties which often happens in great and Populous Cities in the Night. This he did oftentimes, without the leaſt diſ<g ref="char:EOLhyphen"/>covery who he was. Returning home to <hi>White-Hall</hi> early in the Morning. Now in his return Home through the <hi>Strand,</hi> he took notice of a certain Cobler, who was conſtantly up and at work, whiſt<g ref="char:EOLhyphen"/>ling and Singing every Morning, he therefore reſolved to ſee him, and be acquainted with him: in order to which, he immediately knocks off the Heel of his Shooe, by hiting it againſt the Stones; Having ſo done, he bounced at the Coblers Stall. Who's there? Crys the Cobler. Here is one, ſaith the King. With that the Cob<g ref="char:EOLhyphen"/>ler opened his Stall Door, and the King asked him, If he could ſet on his Heel again? Yes that I can, ſays the Cobler. Come in Ho<g ref="char:EOLhyphen"/>neſt Fellow, and ſit thee down by me, and I will do it for you ſtrait;
+<pb n="3" facs="tcp:55047:2"/>the Cobler ſcraping his Awls and old Shooes to one ſide, to make room for the King to ſit by him. The King being hardly able to forbear Laughing at the kindneſs of the Cobler, asked him if there was not a Houſe hard-by which ſold a cup of Ale, where the Peo<g ref="char:EOLhyphen"/>ple were up? Yea, (ſaid the Cobler) there is an Inn over the way, where I believe the Folk of the Houſe are up; for the Carriers go from thence very early in a Morning. With that the King borrow<g ref="char:EOLhyphen"/>ed an old Shooe of the Cobler, and went over to the Inn, deſiring the Cobler to bring his Shooe to him thither, ſo ſoon as he had put the Heel on again; the Cobler promiſed he would. So making what haſte he could to put the Heel on, he carried it over to the King, ſaying, Honeſt Blade, here is thy Shooe again: I'le warrant it will not come off in haſte. Very well, ſaid the King, What muſt you have for your pains? A couple of Pence (anſwered the Cob<g ref="char:EOLhyphen"/>ler). Well, ſaid the King, becauſe thou art an honeſt merry Fel<g ref="char:EOLhyphen"/>low, here is a Teſter for thee. Come, ſit thee down by me, I will drink to thee a whole Pot; Here's a good Health to the King. With all my Heart, ſaid the Cobler, I will pledge thee, were it Water. So the Cobler ſat himſelf down by the King, and was very Merry, and drank off his Liquor very freely: He alſo ſung ſome of his mer<g ref="char:EOLhyphen"/>rieſt Songs and Ketches; whereat the King Laughed heartily, and was very Pleaſant and Jocond with the Cobler: Telling him withal, that his Name was <hi>Harry Tudor,</hi> and that he belonged to the Court, and if he would come and ſee him there, he would make him very Welcome, becauſe he was ſuch pleaſant merry Company; and char<g ref="char:EOLhyphen"/>ged him to be there, and not to forget his Name, but to ask any one for him about the Court, and they would bring you to me: For (ſaid the King) I am very well known at the Court. Now the Cobler little dream'd that it was the King which ſpake to him much leſs that the King's Name was <hi>Harry Tuder.</hi> Therefore with, a great deal of Confidence, he ſtands up and pulls off his Hat, and makes two or three fine Scrapes with his Leg, gives the King many Thanks; withal, telling him, that he was one of the honeſteſt Fel<g ref="char:EOLhyphen"/>lows he ever met withal in his Life-time. And (though he had never been at Court) yet it ſhould not be long before he would make a Holy-day to come and ſee him. Hereupon the King diſcharging the Houſe for what they had drank, would have taken his leave of the Cobler. But the Cobler taking him by the Hand, ſaid, By my Faith, you muſt not go yet, you ſhall firſt go and ſee my poor Habi<g ref="char:EOLhyphen"/>tation; I have there a Tub of good Nappy Ale was never Tap yet,
+<pb n="4" facs="tcp:55047:3"/>you muſt geeds go and taſte of it: For you are the honeſteſt merrieſt Blade that I ever met withal, and I love an honeſt merry Compani<g ref="char:EOLhyphen"/>on withal my Heart.</p>
+            <div type="part">
+               <head>How the Cobler entertained the King in his Cellar, and of the Diſturbance they had by the Cobler's Wife <hi>Joan.</hi>
+               </head>
+               <p>SO the Cobler took the King with him over the way, where he had a Cell<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r adjoyning to his Stall, which was handſomely and nearly Furniſhed, for a poor Man of his Profeſſion: Into this Cellar he had the King, There, ſaith he, ſit down, you are Welcome; but I muſt deſire you to ſpeak ſoftly, for fear of waking my Wife <hi>Joan,</hi> who lies here hard by (ſhewing the King a cloſe Bed made neatly up at one corner of the Celler, much like unto a Cloſet) and if ſhe awake, ſhe will up with ſuch a Juniper Lecture, will make your Ears ding again. At which ſpeech of the Coblers, the King Laugh'd, and told him, He would be mindful to obſerve his Directions. With that the Cobler kindled a Fire, and fetcht out his brown Loaf, from which he cut a luſty Toſt, which he ſet a baking at the Fire, then he brought out his Cheſhire Cheeſe, Come (ſaith the Cobler) will you eat ſome Cheſhire Cheeſe; there is as good fellowſhip in Eating, as well as Drinking; which made the King admire the honeſt freedom of the Cobler. So having eat a bit, the Cobler began a Health, to all true Hearts and merry Companions: At which the King ſmiled, ſaid, God-a-mercy Friend, I will Pledg you. In this manner they Eat together, until it was almoſt break of Day; the Cobler being very free of his Liquor, and delighting the King with ſeveral of his old Stories, inſomuch that the King was highly pleaſed with the manner of the Cobler's entertainment. When of a ſudden, the Cobler's Wife <hi>Joan</hi> began to awake, Efaith (ſaith the Cobler) you muſt be gone now, my Wife <hi>Joan</hi> begins to Grumble, ſhe will wake preſently; and I would not for half the Shooes in my Shop, ſhe ſhould find you here. So taking the King by the Hand, he led him up Stairs, ſaying, Farewel honeſt Blade, it ſhall not be long before I will make a Holy-day, and come ſee thee at Court: You ſhall be welcom, replied the King. So they both parted, the King on his way to <hi>White-Hall,</hi> and the Cobler to his Cellar, putting all things to rights again before his Wife <hi>Joan</hi> aroſe, went to Work again Whilſtling and Singing, as merrily as he uſe to do. Being much ſa<g ref="char:EOLhyphen"/>tisfied
+<pb n="5" facs="tcp:55047:3"/>that he had happened on ſo good a Companion, and much pleaſing himſelf in his Thoughts, how merry he ſhould be when he came to Court.</p>
+            </div>
+            <div type="part">
+               <head>How the Cobler prepared himſelf to go to Court, and how he was ſet out after the beſt Manner; by his Wife <hi>Joan.</hi>
+               </head>
+               <p>NOw as ſoon as the King came Home, he ſent out Orders about the Court, That if any enquired for him by the Name of <hi>Harry Teuder,</hi> they ſhould immediately bring the Perſon before him where-ever he was, without any further Examination of him. Now the Cobler thought every Day a Month till he had been at Court, to ſee his new Acquaintance was much troubled how he ſhould get leave of his Wife <hi>Joan,</hi> for he could not go without her knowledg, by rea<g ref="char:EOLhyphen"/>ſon he did reſolve to make himſelf as Fine as he could; for his Wife always kept the Keys of his Holy day Clothes. Whereupon one Eve<g ref="char:EOLhyphen"/>ning as they ſat at Supper, finding her in a very good Humour, he began to lay open his Mind to her, telling her the whole ſtory of his new Acquaintance; repeating it over and over again, that he was the honeſteſt Fellow that ever he met withal. Husband (quoth ſhe) becauſe you have been ſo ingenuous to tell me the whole truth, I will give you leave to make a Holy-day for this once; you ſhall go to Court, and I will make you as Fine as I can: So it was agreed that he ſhould go the next Day. Whereupon <hi>Joan</hi> aroſe be<g ref="char:EOLhyphen"/>times the next Morning to bruſh up her Husbands Holy-day Clothes, and to make them look as ſmug as ſhe could: She waſht and iron'd his Lace Band, and made his Shooes ſhine that he might ſee his Face in 'em. Having done this, ſhe made her Husband to ariſe and pull off his Shirt, then ſhe waſht him with warm Water from Head to Foot, putting him on a clean Shirt; afterwards ſhe dreſſed him in his Holy-day Clothes, pinning on his Lace-Band in Pimleco.</p>
+            </div>
+            <div type="part">
+               <head>The Cobler's Reception at Court, with the manner of his Beha<g ref="char:EOLhyphen"/>viour before the King.</head>
+               <p>THe Cobler being thus ſet forth, ſtrutted through the Streets like a Crow in a Gutter, thinking himſelf as Fine as the beſt Cour<g ref="char:EOLhyphen"/>tier of them all. In this manner he came to Court, ſtaring on this
+<pb n="6" facs="tcp:55047:4"/>Body and that Body as he walkt up and down, and not knowing who to ask for <hi>Harry Teudor;</hi> at laſt he eſpied one as he thought in the habit of a Serving-man, to him he makes his Addreſs: Saying, Doſt thou hear honeſt Fellow, do you know one <hi>Harry Teuder,</hi> which belongs to the Court? Yes, ſaid the Man, follow me and I will bring you to him; with that he had him up into the Guard-Cham<g ref="char:EOLhyphen"/>ber, telling one of the Yeomen of the Guard, there was one that enquired for <hi>Harry Teuder.</hi> Replied the Yeoman, I know him very well, If you will pleaſe to go along with me, I will bring you to him immediately. So the Cobler followed the Yeoman, much ad<g ref="char:EOLhyphen"/>miring the finery of the Rooms he went through. He thought within himſelf, that the Yeoman was miſtaken in the Perſon he en<g ref="char:EOLhyphen"/>quired after: He therefore pulled him back by the Coat, and told him that he did believe, he was miſtaken in the Perſon whom he enquired after. For (ſaith he) him who I look for is a plain merry honeſt Fellow; his Name is <hi>Harry Teudor:</hi> We drank two Pots to<g ref="char:EOLhyphen"/>gether not long ſince. I ſuppoſe he may belong to ſome Lord, or other about the Court. I tell you, Friend, replied the Yeoman, I know him very well: Do but follow me, and I ſhall bring you to him ſtrait. So going forward, he came at laſt to the Room where the King was, accompanied with ſeveral of his Nobles who attend<g ref="char:EOLhyphen"/>ed him.</p>
+               <p>As ſoon as the Yeoman had put by the Arras, he ſpoke aloud, ſaying, May it pleaſe your Majeſty, here is one that enquires for <hi>Harry Teudor.</hi> The Cobler hearing this, thought he had committed no leſs than Treaſon, therefore he up with his Heels and runs for it. But not being acquainted with the ſeveral Turnings and Rooms through which he came, he was ſoon overtaken and brought before the King, whom the Cobler little thought to be the Perſon he en<g ref="char:EOLhyphen"/>quired after: Therefore in a trembling condition, he fell down up<g ref="char:EOLhyphen"/>on his Knees, ſaying, May it pleaſe your Grace, may it pleaſe your Highneſs, I am a poor Cobler, and enquired for one <hi>Harry Teudor,</hi> who is a very honeſt Fellow, I mended the Heel of his Shooe not long ſince; for which he paid me nobly, and gave me two or three Pots to boot: And I had him over afterwards to my Cellar, where we drank part of a Tub of Nappy Ale, and was very merry, until my Wife <hi>Joan</hi> began to Grumble, which put an end to our Merri<g ref="char:EOLhyphen"/>ment for that time. But I told him, I would come to the Court and ſee him as ſoon as conveniently I could. Well, ſaid the King, be not troubled: Do you know this honeſt Fellow again if you ſee
+<pb n="7" facs="tcp:55047:4"/>him? Yea, that I do from a thouſand (replied the Cobler). Then, ſaid the King, ſtand up and be not afraid, but look well about you, peradventure you may find this honeſt Fellow amongſt this Compa<g ref="char:EOLhyphen"/>ny. Whereupon the Cobler aroſe and looked wiſhfully upon the King, and the reſt of his Nobles, but to little or no purpoſe. For though he ſaw ſomething in the King's Face which he thought he had ſeen before, yet he could not immagine him to be <hi>Harry Teudor,</hi> whoſe Heel of his Shooe he had mended, and who had been ſo mer<g ref="char:EOLhyphen"/>ry with him, both at the Inn, and at his own Cellar. He therefore told the King, he did not expect to find <hi>Harry Teudor</hi> among ſuch fine Folks as he ſaw there; but that the Perſon that he looked for, was a plain honeſt true hearted Fellow. Adding withal, That he was ſure, that did <hi>Harry Teudor</hi> but know that he was come to Court, he would make him welcom. At which ſpeech of the Cob<g ref="char:EOLhyphen"/>ler's, the King had much ado to forbear Laughing out-right; but keeping his Countenance as ſteady as he could, he ſpoke to the Yeo<g ref="char:EOLhyphen"/>man of the Guard, Here (ſaith he) take down this honeſt Cobler into my Cellar, and let him drink my Health, I will take order that <hi>Harry Teudor</hi> ſhall come to him preſently. So away went the Cobler ready to leap out of his Skin for Joy, not only that he had come off ſo well, but alſo that he ſhould find his Friend <hi>Harry Teudor.</hi>
+               </p>
+            </div>
+            <div type="text">
+               <head>The Cobler's entertainment in the King's Cellar; and how he met with his Friend <hi>Harry Teudor;</hi> and how he came to know him to be the King.</head>
+               <p>THe Cobler had not been long in the King's Cellar, before the King came to him in the ſame Habit which he had on when the Cobler mended the Heel of his Shooe; whereupon the Cobler knew him, and run and embraced him: Saying, Honeſt <hi>Harry,</hi> I have made a Holy-day on purpoſe to come and ſee you; but I had much ado to get leave of my Wife <hi>Joan,</hi> who was loth I ſhould loſe ſo much time from my Work: But I was reſolved to ſee you, I therefore made my ſelf as Fine as I could. But (I'le tell you <hi>Harry</hi>) when I came to Court, I was in a peck of troubles how to find you out; but at laſt I met with a Man who told me he knew you very well, and that he would bring me to you; but in ſtead of doing ſo, he brought me before the King, which had almoſt frighted me out of my ſeven ſenſes. But in Good-faith (added the Cobler) I am reſolved to be merry with you, ſince I have had the good fortune to meet with you at laſt. I,
+<pb n="8" facs="tcp:55047:5"/>I, that you ſhall, replied the King, we will be as merry as Princes. With that he call'd for a large Glaſs of Wine and drank to the Cob<g ref="char:EOLhyphen"/>ler, the King's good Health. God a mercy, ſaid the Cobler, honeſt <hi>Harry,</hi> I will Pledg thee with all my Heart. Now after the Cobler had drank about four or five good Healths, he began to be Merry and fell a Singing ſome of his old Songs and Ketches; which pleaſed the King very much, and made him Laugh heartily. When of a ſudden ſeveral of the Nobles came into the Cellar, extraordinary rich in Ap<g ref="char:EOLhyphen"/>parel, who all ſtood bare to <hi>Harry Teudor,</hi> which put the Cobler into a great amazement at firſt, but recovering himſelf, he lookt more wiſhfully upon <hi>Harry Teudor;</hi> when preſently he knew him to be the King, which he ſaw in the Preſence-Chamber, tho in other Habit. He immediately fell down upon his Knees, ſaying, May it pleaſe your Grace, may it pleaſe your Highneſs, I am an honeſt poor Cobler, and mean no harm: No, no, ſaid the King, nor ſhall receive none here. He commanded him therefore to ariſe up, and be as Merry as he was before. And though he knew him now to be the King, yet he ſhould uſe the ſame freedom with him, as he did when he mended the Heel of his Shooe. This kind ſpeech of the King's and three or four Glaſ<g ref="char:EOLhyphen"/>ſes of Wine more, made the Cobler to be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as good Humour as he was before, telling the King ſeveral of his pretty Stories, and ſinging ſome of his beſt Songs; very much to the ſatisfaction of the King and his Nobles.</p>
+            </div>
+            <div type="part">
+               <head>How the Cobler became a Courtier.</head>
+               <p>NOw the King conſidering the pleaſant Humour of the Cobler, how in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olently merry he was, and free from any Deſigns, and that he was a Perſon that Laboured very hard, and took a great deal of pains for a ſmall Livelihood, was pleaſed out of his Princely Grace and Favour, to allow him a liberal Annuity of forty Mark a Year, for the better ſupport of his Jolly Humour, and the Maintenance of him<g ref="char:EOLhyphen"/>ſelf and his Wife <hi>Joan,</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat he ſhould be admitted one of his Court, and that he might have the freedom of his Cellar when ever he pleas'd. Which being ſo much beyond the Coblers expectation, did highly extenuate the Cobler's Humour, much to the ſatisfaction of the King. So after a great many Legs and Scrapes, he returned Home to his Wife <hi>Joan,</hi> with the joyful News of his kind Reception at Court; which ſo well pleaſed her, that ſhe did not think much at the great pains ſhe took in tricking him up for that Journey.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:55047:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
